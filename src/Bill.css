@@ -1,0 +1,41 @@
+.container {
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    overflow: hidden;
+    border: 1px solid #f7237b;
+    background-image: linear-gradient(#a7f5ca, #e9c8c0);
+    border-radius: 15px;
+  }
+  body {
+    background-color: #e2f1df;
+  }
+  
+  .Input {
+    width: 30%;
+    height: 40px;
+    margin-bottom: 20px;
+  }
+  span {
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  button {
+    padding: 15px 30px;
+    cursor: pointer;
+    border-radius: 20px;
+    font-size: larger;
+    border: none;
+    background-color: #5631fa;
+    color: white;
+  }
+  
+  .result {
+    width: 100%;
+    margin-left: 40%;
+    text-align: left;
+  }
+  h1 {
+    color: #f7237b;
+  }
